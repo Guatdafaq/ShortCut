@@ -8,6 +8,8 @@ If you want to try these project you need:
       - To create a Mblog folder and paste the files uploaded here in there, since this is the files of the Django project. Mblog is the project and shortcut is the app.
       - To create a local server with Django and configure it to open this project in the main page. 
       - To create a database for the users, the shortcuts and the user profiles, described in the shortcut/models.py.
+      
+The PDF file attached describes the structure of the app and how to use the site, but for now it's only avalaible in spanish, sorry for the inconvenience. I will upaload one in english as soon as I can. The db.sqlite file is a created database ready to use, with some users, shorcuts and follows between the users. You can use this if you want to, the credentials are in the PDF file.
 
 The User class used in the project is the one that provides the Django framework itself, which it allows you to administrate the users and its accounts from the the Django admin interface.
 
