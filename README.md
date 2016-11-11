@@ -1,9 +1,11 @@
 # ShortCut
-This is a microblogging social network similar to Twitter. It's not finished at all, but all the features included work perfectly fine. It was done as a university project for the Web Developing signature. 
+This is a microblogging social network similar to Twitter. It's not finished at all, but all the features included work perfectly fine. It was done as a university project for the Web Developing subject. 
 
 It was devceloped using Django 1.7.1 version and Python 2.7.6 version, so it could be outdated and may not work in the newest versions of Django and Python.
 
 If you want to try these project you need:
+
+      - To create a Mblog folder and paste the files uploaded here in there, since this is the files of the Django project. Mblog is the           project and shortcut is the app.
       - To create a local server with Django and configure it to open this project in the main page. 
       - To create a database for the users, the shortcuts and the user profiles, described in the shortcut/models.py.
 
